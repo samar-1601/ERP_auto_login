@@ -20,4 +20,4 @@ NOTE : The questions are the ones which come as security questions like "Name yo
 
 ![](2021-12-12-14-49-44.png)
 
-WOILA!! Now run the autoERPlogin.exe file and enjoy logging in ERP automatically without the hastle of typing everything afresh, everytime.
+WOILA!! Now run the autoERPlogin.py file and enjoy logging in ERP automatically without the hastle of typing everything afresh, everytime.
